@@ -4,9 +4,9 @@ Global AI Hub Akbank Makine Öğrenmesi Bootcamp Proje Classification
 An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells 
 electronic products.
 
-ID: ID Number of Customers.
-Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
-Mode of shipment:The Company Ships the products in multiple way such as Ship, Flight and Road.
+ID: ID Number of Customers.                                                                                                                                                                                                     
+Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.                                                                                                                                 
+Mode of shipment:The Company Ships the products in multiple way such as Ship, Flight and Road.                                                                                                                                  
 Customer care calls: The number of calls made from enquiry for enquiry of the shipment.
 Customer rating: The company has rated from every customer. 1 is the lowest (Worst), 5 is the highest (Best).
 Cost of the product: Cost of the Product in US Dollars.
